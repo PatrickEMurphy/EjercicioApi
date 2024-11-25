@@ -8018,11 +8018,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\SuperApi\\ApiCodeF\\ApiCodeF.csproj",
+      "projectUniqueName": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\ApiCodeF\\ApiCodeF.csproj",
       "projectName": "ApiCodeF",
-      "projectPath": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\SuperApi\\ApiCodeF\\ApiCodeF.csproj",
+      "projectPath": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\ApiCodeF\\ApiCodeF.csproj",
       "packagesPath": "C:\\Users\\2Dawa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\SuperApi\\ApiCodeF\\obj\\",
+      "outputPath": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\ApiCodeF\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\2Dawa\\AppData\\Roaming\\NuGet\\NuGet.Config",

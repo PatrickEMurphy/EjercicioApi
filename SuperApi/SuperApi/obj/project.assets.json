@@ -433,11 +433,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\SuperApi\\SuperApi\\SuperApi.csproj",
+      "projectUniqueName": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\SuperApi\\SuperApi.csproj",
       "projectName": "SuperApi",
-      "projectPath": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\SuperApi\\SuperApi\\SuperApi.csproj",
+      "projectPath": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\SuperApi\\SuperApi.csproj",
       "packagesPath": "C:\\Users\\2Dawa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\SuperApi\\SuperApi\\obj\\",
+      "outputPath": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\SuperApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\2Dawa\\AppData\\Roaming\\NuGet\\NuGet.Config",

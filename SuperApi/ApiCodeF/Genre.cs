@@ -16,6 +16,6 @@ namespace ApiCodeF
 
         // Lista de Juegos
         [JsonIgnore]
-        public IEnumerable<Game> Games { get; set; }
+        public List<Game>? Games { get; set; }
     }
 }

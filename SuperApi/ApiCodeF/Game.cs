@@ -16,6 +16,7 @@ namespace ApiCodeF
 
         [Required]
         public int GenreId { get; set; }
+
         [JsonIgnore]
         [DisplayName("Género")]
         public Genre? Genre { get; set; }

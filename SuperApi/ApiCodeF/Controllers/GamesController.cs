@@ -76,7 +76,7 @@ namespace ApiCodeF.Controllers
         // POST: api/Games
         // To protect from overposting attacks, see https://go.microsoft.com/fwlink/?linkid=2123754
         [HttpPost]
-        public async Task<ActionResult<Game>> PostGame(Game game)
+        public async Task<ActionResult<Game>> PostGame([FromBody] Game game)
         {
             _context.Game.Add(game);
             await _context.SaveChangesAsync();
