@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|c:\\users\\2dawa\\desktop\\clases\\entorno servidor dsw\\ut03\\apiejercicios\\ejercicioapi\\superapi\\apicodef\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|solutionrelative:apicodef\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|c:\\users\\2dawa\\desktop\\clases\\entorno servidor dsw\\ut03\\apiejercicios\\ejercicioapi\\superapi\\apicodef\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|solutionrelative:apicodef\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|c:\\users\\2dawa\\desktop\\clases\\entorno servidor dsw\\ut03\\apiejercicios\\ejercicioapi\\superapi\\apicodef\\data\\juegoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|solutionrelative:apicodef\\data\\juegoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|c:\\users\\2dawa\\desktop\\clases\\entorno servidor dsw\\ut03\\apiejercicios\\ejercicioapi\\superapi\\apicodef\\data\\userscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|solutionrelative:apicodef\\data\\userscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|c:\\users\\2dawa\\desktop\\clases\\entorno servidor dsw\\ut03\\apiejercicios\\ejercicioapi\\superapi\\apicodef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -23,12 +15,24 @@
       "RelativeMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|solutionrelative:apicodef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|c:\\users\\2dawa\\desktop\\clases\\entorno servidor dsw\\ut03\\apiejercicios\\ejercicioapi\\superapi\\apicodef\\data\\juegoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|solutionrelative:apicodef\\data\\juegoscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|c:\\users\\2dawa\\desktop\\clases\\entorno servidor dsw\\ut03\\apiejercicios\\ejercicioapi\\superapi\\apicodef\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|solutionrelative:apicodef\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|c:\\users\\2dawa\\desktop\\clases\\entorno servidor dsw\\ut03\\apiejercicios\\ejercicioapi\\superapi\\apicodef\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|solutionrelative:apicodef\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|c:\\users\\2dawa\\desktop\\clases\\entorno servidor dsw\\ut03\\apiejercicios\\ejercicioapi\\superapi\\apicodef\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|solutionrelative:apicodef\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|c:\\users\\2dawa\\desktop\\clases\\entorno servidor dsw\\ut03\\apiejercicios\\ejercicioapi\\superapi\\apicodef\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C075F489-EC8B-4D4A-A8DC-AD8357694FB0}|ApiCodeF\\ApiCodeF.csproj|solutionrelative:apicodef\\controllers\\genrescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BB824D3C-D964-40A8-A345-605A099C6A37}|SuperApi\\SuperApi.csproj|c:\\users\\2dawa\\desktop\\clases\\entorno servidor dsw\\ut03\\apiejercicios\\ejercicioapi\\superapi\\superapi\\controllers\\juegoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,37 +46,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "UsersContext.cs",
+              "DocumentMoniker": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\ApiCodeF\\Data\\UsersContext.cs",
+              "RelativeDocumentMoniker": "ApiCodeF\\Data\\UsersContext.cs",
+              "ToolTip": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\ApiCodeF\\Data\\UsersContext.cs",
+              "RelativeToolTip": "ApiCodeF\\Data\\UsersContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T09:41:13.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\ApiCodeF\\Program.cs",
               "RelativeDocumentMoniker": "ApiCodeF\\Program.cs",
               "ToolTip": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\ApiCodeF\\Program.cs",
               "RelativeToolTip": "ApiCodeF\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAgAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T08:24:01.207Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\ApiCodeF\\appsettings.json",
               "RelativeDocumentMoniker": "ApiCodeF\\appsettings.json",
               "ToolTip": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\ApiCodeF\\appsettings.json",
               "RelativeToolTip": "ApiCodeF\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-22T08:23:18.676Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "JuegosContext.cs",
               "DocumentMoniker": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\ApiCodeF\\Data\\JuegosContext.cs",
               "RelativeDocumentMoniker": "ApiCodeF\\Data\\JuegosContext.cs",
@@ -85,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "GenresController.cs",
               "DocumentMoniker": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\ApiCodeF\\Controllers\\GenresController.cs",
               "RelativeDocumentMoniker": "ApiCodeF\\Controllers\\GenresController.cs",
@@ -98,52 +115,52 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "GamesController.cs",
               "DocumentMoniker": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\ApiCodeF\\Controllers\\GamesController.cs",
               "RelativeDocumentMoniker": "ApiCodeF\\Controllers\\GamesController.cs",
               "ToolTip": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\ApiCodeF\\Controllers\\GamesController.cs",
               "RelativeToolTip": "ApiCodeF\\Controllers\\GamesController.cs",
-              "ViewState": "AQIAAEQAAAAAAAAAAAAIwE4AAAA8AAAA",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAIwE8AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T08:22:11.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "JuegosController.cs",
               "DocumentMoniker": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\SuperApi\\Controllers\\JuegosController.cs",
               "RelativeDocumentMoniker": "SuperApi\\Controllers\\JuegosController.cs",
               "ToolTip": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\SuperApi\\Controllers\\JuegosController.cs",
               "RelativeToolTip": "SuperApi\\Controllers\\JuegosController.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAA5wEEAAAAoAAAA",
+              "ViewState": "AQIAADQAAAAAAAAAAAAgwEEAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T08:33:32.012Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\ApiCodeF\\Game.cs",
               "RelativeDocumentMoniker": "ApiCodeF\\Game.cs",
               "ToolTip": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\ApiCodeF\\Game.cs",
               "RelativeToolTip": "ApiCodeF\\Game.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T08:15:44.392Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "Genre.cs",
               "DocumentMoniker": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\ApiCodeF\\Genre.cs",
               "RelativeDocumentMoniker": "ApiCodeF\\Genre.cs",
               "ToolTip": "C:\\Users\\2Dawa\\Desktop\\Clases\\Entorno Servidor DSW\\UT03\\ApiEjercicios\\EjercicioApi\\SuperApi\\ApiCodeF\\Genre.cs",
               "RelativeToolTip": "ApiCodeF\\Genre.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-22T08:15:58.645Z",
               "EditorCaption": ""

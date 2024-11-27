@@ -12,7 +12,7 @@ namespace ApiCodeF
         [Required]
         [MinLength(5), MaxLength(30)]
         [DisplayName("Género")]
-        public String GenreName { get; set; }
+        public String Name { get; set; }
 
         // Lista de Juegos
         [JsonIgnore]

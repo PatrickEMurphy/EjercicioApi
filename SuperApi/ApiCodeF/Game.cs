@@ -1,6 +1,7 @@
 ﻿using System.ComponentModel.DataAnnotations;
 using System.ComponentModel;
 using System.Text.Json.Serialization;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace ApiCodeF
 {
@@ -12,7 +13,11 @@ namespace ApiCodeF
         [Required]
         [MinLength(5), MaxLength(30)]
         [DisplayName("Título")]
-        public String Title { get; set; }
+        public String Name { get; set; }
+
+        [Required]
+        [DisplayName("Precio")]
+        public double Price { get; set; } 
 
         [Required]
         public int GenreId { get; set; }
