@@ -1,5 +1,6 @@
 ﻿using System.Text;
 using System.Text.Json.Serialization;
+using ApiCodeF.Data;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
@@ -9,6 +10,9 @@ var builder = WebApplication.CreateBuilder(args);
 // Cadena Conexion
 builder.Services.AddDbContext<JuegosContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("JuegosContext") ?? throw new InvalidOperationException("Connection string 'JuegosContext' not found.")));
+
+builder.Services.AddDbContext<UsersContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("UsersContext") ?? throw new InvalidOperationException("Connection string 'UsersContext' not found.")));
 
 // Add services to the container.
 // Hacer que no haga Referencia circular (.AddJsonOptions(x => x.JsonSerializerOptions.ReferenceHandler = ReferenceHandler.IgnoreCycles);)

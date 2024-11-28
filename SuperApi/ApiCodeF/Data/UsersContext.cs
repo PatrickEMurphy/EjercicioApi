@@ -32,7 +32,7 @@ namespace ApiCodeF.Data
             var passwordHasher = new PasswordHasher<IdentityUser>();
 
             users[0].PasswordHash = passwordHasher.HashPassword(users[0], "Basic123!");
-            users[1].PasswordHash = passwordHasher.HashPassword(users[2], "Admin123!");
+            users[1].PasswordHash = passwordHasher.HashPassword(users[1], "Admin123!");
 
             // Seeder de UserRoles
             var userRoles = new List<IdentityUserRole<string>>
