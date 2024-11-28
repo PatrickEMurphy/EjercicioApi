@@ -6,11 +6,13 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ApiCodeF;
+using Microsoft.AspNetCore.Authorization;
 
 namespace ApiCodeF.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
+    [Authorize]
     public class GenresController : ControllerBase
     {
         private readonly JuegosContext _context;

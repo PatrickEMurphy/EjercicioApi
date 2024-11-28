@@ -1,0 +1,325 @@
+{
+	"info": {
+		"_postman_id": "5c1399ba-43fd-4259-8388-e1cfbf80f8cf",
+		"name": "ApiCodeFirst",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38419187"
+	},
+	"item": [
+		{
+			"name": "RegisterLogin",
+			"item": [
+				{
+					"name": "Register",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"email\": \"string\",\r\n  \"password\": \"string\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://{{host}}:{{Port}}/api/Auth/register",
+							"protocol": "https",
+							"host": [
+								"{{host}}"
+							],
+							"port": "{{Port}}",
+							"path": [
+								"api",
+								"Auth",
+								"register"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "Login",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"email\": \"string\",\r\n  \"password\": \"string\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": {
+							"raw": "https://{{host}}:{{Port}}/api/Auth/login",
+							"protocol": "https",
+							"host": [
+								"{{host}}"
+							],
+							"port": "{{Port}}",
+							"path": [
+								"api",
+								"Auth",
+								"login"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "GetGames",
+			"item": [
+				{
+					"name": "GetGames",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://{{host}}:{{Port}}/api/Games",
+							"protocol": "https",
+							"host": [
+								"{{host}}"
+							],
+							"port": "{{Port}}",
+							"path": [
+								"api",
+								"Games"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetGame",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://{{host}}:{{Port}}/api/Games/2",
+							"protocol": "https",
+							"host": [
+								"{{host}}"
+							],
+							"port": "{{Port}}",
+							"path": [
+								"api",
+								"Games",
+								"2"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PostGame",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://{{host}}:{{Port}}/api/Games",
+							"protocol": "https",
+							"host": [
+								"{{host}}"
+							],
+							"port": "{{Port}}",
+							"path": [
+								"api",
+								"Games"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PutGame",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "https://{{host}}:{{Port}}/api/Games/1",
+							"protocol": "https",
+							"host": [
+								"{{host}}"
+							],
+							"port": "{{Port}}",
+							"path": [
+								"api",
+								"Games",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DeleteGame",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://{{host}}:{{Port}}/api/Games/1",
+							"protocol": "https",
+							"host": [
+								"{{host}}"
+							],
+							"port": "{{Port}}",
+							"path": [
+								"api",
+								"Games",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "GetGenres",
+			"item": [
+				{
+					"name": "GetGenres",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://{{host}}:{{Port}}/api/Genres",
+							"protocol": "https",
+							"host": [
+								"{{host}}"
+							],
+							"port": "{{Port}}",
+							"path": [
+								"api",
+								"Genres"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "GetGenre",
+					"request": {
+						"method": "GET",
+						"header": [],
+						"url": {
+							"raw": "https://{{host}}:{{Port}}/api/Genres/1",
+							"protocol": "https",
+							"host": [
+								"{{host}}"
+							],
+							"port": "{{Port}}",
+							"path": [
+								"api",
+								"Genres",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PostGenre",
+					"request": {
+						"method": "POST",
+						"header": [],
+						"url": {
+							"raw": "https://{{host}}:{{Port}}/api/Genres",
+							"protocol": "https",
+							"host": [
+								"{{host}}"
+							],
+							"port": "{{Port}}",
+							"path": [
+								"api",
+								"Genres"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "PutGenre",
+					"request": {
+						"method": "PUT",
+						"header": [],
+						"url": {
+							"raw": "https://{{host}}:{{Port}}/api/Genres/1",
+							"protocol": "https",
+							"host": [
+								"{{host}}"
+							],
+							"port": "{{Port}}",
+							"path": [
+								"api",
+								"Genres",
+								"1"
+							]
+						}
+					},
+					"response": []
+				},
+				{
+					"name": "DeleteGenre",
+					"request": {
+						"method": "DELETE",
+						"header": [],
+						"url": {
+							"raw": "https://{{host}}:{{Port}}/api/Genres/1",
+							"protocol": "https",
+							"host": [
+								"{{host}}"
+							],
+							"port": "{{Port}}",
+							"path": [
+								"api",
+								"Genres",
+								"1"
+							]
+						}
+					},
+					"response": []
+				}
+			]
+		}
+	],
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"packages": {},
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "host",
+			"value": "localhost",
+			"type": "string"
+		},
+		{
+			"key": "Port",
+			"value": "7041",
+			"type": "string"
+		}
+	]
+}
