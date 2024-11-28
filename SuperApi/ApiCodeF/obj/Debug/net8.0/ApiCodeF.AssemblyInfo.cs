@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ApiCodeF")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4efbdb3b4a504b34f3d6302690ab8499ca0dc8e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b481a5c6facc09c7cdfb5b6cd061d495bde19c14")]
 [assembly: System.Reflection.AssemblyProductAttribute("ApiCodeF")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ApiCodeF")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

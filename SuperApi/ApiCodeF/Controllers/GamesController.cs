@@ -25,7 +25,7 @@ namespace ApiCodeF.Controllers
         public async Task<ActionResult<IEnumerable<Game>>> GetGame()
         {
             var games = await _context.Game.Include(g => g.Genre).ToListAsync();
-            return games;
+            return Ok(games);
         }
 
         // GET: api/Games/5
